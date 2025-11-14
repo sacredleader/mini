@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Question {{ qno }}</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f2f8ff; padding: 30px; }
+    .question-box { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); width: 60%; margin: auto; }
+    .options label { display: block; margin: 10px 0; }
+    button { padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background-color: #0056b3; }
+    .progress { margin-bottom: 15px; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="question-box">
+    <div class="progress">Question {{ qno }} of {{ total }}</div>
+    <form method="POST">
+      <p><strong>{{ question.question }}</strong></p>
+      {% for key, val in question.options.items() %}
+        <label>
+          <input type="radio" name="answer" value="{{ key }}" required>
+          ({{ key }}) {{ val }}
+        </label>
+      {% endfor %}
+      <br>
+      <button type="submit">Next</button>
+    </form>
+  </div>
+</body>
+</html>

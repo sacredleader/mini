@@ -1,0 +1,20 @@
+What is the capital city of Japan?;TOKYO;KYOTO;HIROSHIMA;NARA;A
+Who wrote the play Romeo and Juliet?;Jane Austen;Eiichiro Oda;William Shakespeare;George Orwell;C
+What planet is known as the Red Planet?;Jupiter;Mars;Pluto;Uranus;B
+In which year did the Titanic sink?;1947;2005;1945;1912;D
+What is the chemical symbol for gold?;Fe;C;Au;Ag;C
+Who painted the Mona Lisa?;Leonardo da Vinci;Vincent van Gogh;Pablo Picasso;Claude Monet;A
+What is the largest ocean on Earth?;Indian Ocean;The Pacific Ocean;Arabian Sea;Sea of Japan;B
+What is the hardest natural substance on Earth?;Diamond;Obsidian;netherite;platinum;A
+Which planet has the most moons?;Mars;Saturn;Earth;Jupiter;B
+Who discovered penicillin?;Albert Einstein;Isaac Newton;Marie Curie;Alexander Fleming;D
+What is the smallest country in the world?;Eswatini;Djibouti;Vatican City;São Tomé and Príncipe;C
+How many continents are there on Earth?;8;9;7;11;C
+Who was the first person to walk on the Moon?;Neil Armstrong;Buzz Aldrin;Alan Shepard;David Scott;A
+What is the fastest land animal?;Tiger;Cheetah;leopard;lion;B
+Which element has the chemical symbol O?;Carbon;Hydrgen;Florine;Oxygen;D
+What is the currency of the United Kingdom?;Euro;US Dollar;Pound sterling;Rupee;C
+Who is known as the “Father of Computers”?;Charles Babbage;Alan Turing;Grace Hopper;John von Neumann;A
+In what year did World War II end?;1947;1945;1919;1978;B
+What is the tallest mountain in the world?;K2;Kangchenjunga;Mount Everest;Mount Fugi;C
+Which famous scientist developed the theory of relativity?;Richard Feynman;Niels Bohr;Galileo Galilei;Albert Einstein;D
